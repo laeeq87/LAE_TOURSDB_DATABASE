@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Database_home</string>
+    <string name="menu_all">All</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_cheap">Cheap</string>
+    <string name="menu_fancy">Fancy</string>
+
+</resources>

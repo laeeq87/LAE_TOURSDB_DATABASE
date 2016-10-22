@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tours>
+
+    <tour>
+        <tourId>14</tourId>
+        <tourTitle>Explore Islamabad</tourTitle>
+        <packageTitle>Beautiful Islamabad</packageTitle>
+        <description>There Is no place such a beautiful like islamabad.It is the capital of pakistan</description>
+        <price>500</price>
+        <difficulty>2</difficulty>
+        <length>2</length>
+        <image>map_isl</image>
+        <link></link>
+    </tour>
+
+
+    <tour>
+        <tourId>18</tourId>
+        <tourTitle>Murree</tourTitle>
+        <packageTitle>beautiful Murree</packageTitle>
+        <description>Muree is the very beautiful hill station of Pakistan</description>
+        <price>300</price>
+        <difficulty>Easy</difficulty>
+        <length>5</length>
+        <image>map_murr</image>
+        <link></link>
+    </tour>
+
+
+    <tour>
+        <tourId>21</tourId>
+        <tourTitle>LakeView Park</tourTitle>
+        <packageTitle>Lakeview Reacreational Park</packageTitle>
+        <description>Lakeview is a reacreational Family Park which is located in Islamabad</description>
+        <price>200</price>
+        <difficulty>Easy</difficulty>
+        <length>4</length>
+        <image>map_lake</image>
+        <link></link>
+    </tour>
+
+    <tour>
+        <tourId>22</tourId>
+        <tourTitle>Lahore</tourTitle>
+        <packageTitle>beautyful city of pakistan</packageTitle>
+        <description>Lakeview is a reacreational Family Park which is located in Islamabad</description>
+        <price>200</price>
+        <difficulty>Easy</difficulty>
+        <length>4</length>
+        <image>map_lake</image>
+        <link></link>
+    </tour>
+
+</tours>
